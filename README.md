@@ -29,7 +29,6 @@ Users should be able to:
 
 ![My site display](/design/screenshot.png)
 
-
 ### Links
 
 - Solution URL: [My Github Repository Link](https://github.com/akshi17/stats-preview-card-component)
@@ -42,7 +41,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
@@ -61,14 +59,16 @@ I will try to make some more projects for Flex Box and Responsive tricks to clea
 ### Useful resources
 
 - [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) - I have been following this course for HTML and CSS
-- [CSS Flexbox: A Complete Guide](https://www.example.com) - This is an amazing article which helped me understand FlexBox. 
+- [CSS Flexbox: A Complete Guide](https://sharkcoder.com/layout/flexbox) - This is an amazing article which helped me understand FlexBox. 
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/) - This helped me in learning the basics of media queries. I'd recommend it to anyone still learning this concept.
+
 
 
 ## Author
 
 - Frontend Mentor - [@akshi17](https://www.frontendmentor.io/profile/akshi17)
 - LinkedIn - [Akshi Chauhan](https://www.linkedin.com/in/akshi-chauhan-8783811b1/)
+
 
 
 ## Acknowledgments
