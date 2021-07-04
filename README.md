@@ -49,19 +49,20 @@ Users should be able to:
 ### What I learned
 
 - This is my first project using Flexbox and Responsive techniques. 
-- This project helped me clear and built my basics for Flex Box.
-- 
+- This project helped me clear and built my basics for the same.
+- And it also helped me learn some more CSS properties.
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will try to make some more projects for Flex Box and Responsive tricks to clear my concepts on better level. Further, I would like to learn CSS Grids and Bootstrap and make projects for the same.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) - I have been following this course for HTML and CSS
+- [CSS Flexbox: A Complete Guide](https://www.example.com) - This is an amazing article which helped me understand FlexBox. 
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/) - This helped me in learning the basics of media queries. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
@@ -72,3 +73,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
+I thank [Tanay Dubey](https://www.linkedin.com/in/tanay-dubey-td304/) for suggesting this project and constantly motivating me.
