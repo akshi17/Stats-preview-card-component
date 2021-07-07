@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My site display](/design/screenshot.png)
+![My live site display](/design/screenshot.png)
 
 ### Links
 
